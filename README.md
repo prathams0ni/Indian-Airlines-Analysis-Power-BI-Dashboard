@@ -212,5 +212,14 @@ DIVIDE(
 ### Steps
 1. Clone this repository:
    bash:
-   "git clone https://github.com/prathams0ni/indian-airlines-analysis.git"
+   "https://github.com/prathams0ni/Indian-Airlines-Analysis-Power-BI-Dashboard"
 
+## 🧾 Conclusion
+
+The analysis of Indian domestic airlines reveals clear patterns in customer behavior, airline performance, and pricing strategy. Economy class continues to dominate the market, supported by strong demand for affordable travel options. One-stop flights being the majority indicate limited direct connectivity on several routes, highlighting potential opportunities for airlines to expand non-stop services.
+
+The pricing analysis shows that customers benefit significantly from early bookings, while airlines adjust fares based on demand and time proximity. Vistara emerges as the leading airline in terms of bookings, showcasing strong brand preference and operational efficiency.
+
+Metro cities such as Bangalore, Mumbai, Chennai, Delhi, and Hyderabad form the backbone of domestic air travel, with high intercity movement. Additionally, morning and early-morning flights being the most preferred reflect traveler convenience and business-related travel patterns.
+
+Overall, the dashboard provides actionable insights that can help airlines optimize pricing, improve route planning, enhance customer experience, and strengthen competitive positioning in the Indian aviation market.
