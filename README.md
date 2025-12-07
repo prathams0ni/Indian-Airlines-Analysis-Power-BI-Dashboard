@@ -55,8 +55,6 @@ By combining meaningful KPIs, drill-down visuals, and an intuitive layout, this 
 
 <img width="1471" height="731" alt="image" src="https://github.com/user-attachments/assets/3313af0f-0973-4404-b19c-1df283d14e49" />
 
-<img width="1465" height="726" alt="image" src="https://github.com/user-attachments/assets/a509898a-8485-4d36-bff1-7b6e296afcb1" />
-
 ### 🟦 **Page 1 — High-Level Overview & Price Trends**
 
 #### 🔹 KPI Metrics
@@ -78,6 +76,8 @@ By combining meaningful KPIs, drill-down visuals, and an intuitive layout, this 
 - Indicates price elasticity based on demand  
 
 ---
+
+<img width="1465" height="726" alt="image" src="https://github.com/user-attachments/assets/a509898a-8485-4d36-bff1-7b6e296afcb1" />
 
 ### 🟦 **Page 2 — Route, Timing & Airline Performance Analysis**
 
